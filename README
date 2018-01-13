@@ -8,7 +8,7 @@ Needs some work, doesnt boot if compiled directly from these files.
 Indian Variant
 j7maxlte_kernel/arch/arm64/boot/dts/mediatek/mt6757_j7maxlte_swa_ins_05.dts 
  
- ---------------------------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------------------------
   Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
